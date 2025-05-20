@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "titulo": "Livro 1",
+        "autor": "???",
+        "editora": "???",
+        "ano": 1972
+        
+    },
+
+    {
+        "id": 2,
+        "titulo": "Livro 2",
+        "autor": "???",
+        "editora": "???",
+        "ano": 1972
+        
+    },
+    
+    {
+        "id": 3,
+        "titulo": "Livro 3",
+        "autor": "???",
+        "editora": "???",
+        "ano": 1972
+        
+    },
+    
+    {
+        "id": 4,
+        "titulo": "Livro 4",
+        "autor": "???",
+        "editora": "???",
+        "ano": 1972
+        
+    }
+]
