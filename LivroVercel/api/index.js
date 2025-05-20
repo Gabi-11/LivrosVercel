@@ -1,13 +1,13 @@
-const { error } = require('console');
 const express = require('express');
 const cors = require('cors');
+const path = require('path');
 const livroPath = path.join(__dirname, 'livros.json');
 
 // Importa o módulo 'fs' para ler e escrever arquivos
 const fs = require('fs');
 
-const path = require('path'); // Lidar com os caminhos dos arquivos
-const app = express()
+ // Lidar com os caminhos dos arquivos
+const app = express();
 
 // Define a porta onde o servidor irá rodar
 
